@@ -1,16 +1,11 @@
 # ulivemedia
 
-A new Flutter project.
+This application is an ongoing project for the youtube channel <a href="https://www.youtube.com/ulivemedia" target="_blank">ULIVE AVIATION MEDIA</a>
 
-## Getting Started
+Flutter and Dart is used to create this application.
+The backend to this application is Firebase.
+Firebase services like the following are used.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+DB: Cloud Firestore
+Auth: Firebase Authentication (GoogleSignIn, Email SignIn),
+Storage: Firebase Storage
